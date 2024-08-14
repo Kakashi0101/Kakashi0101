@@ -1,6 +1,6 @@
 - 👋 olá, eu sou o Elson
 -  Buscando sempre aumentar os conhecimentos sobre tecnologia 
--  Atualmente cursando ciência da computação na Puc minas, quarto período 
+-  Atualmente cursando ciência da computação na Puc minas, sexto período 
 - 📫 elsonjojunior18@gmail.com
 
 <!---
